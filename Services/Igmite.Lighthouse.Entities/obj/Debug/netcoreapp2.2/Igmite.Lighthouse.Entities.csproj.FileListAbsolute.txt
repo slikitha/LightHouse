@@ -1,0 +1,10 @@
+C:\Users\likitha\Desktop\.netProject\Services\Igmite.Lighthouse.Entities\bin\Debug\netcoreapp2.2\Igmite.Lighthouse.Entities.deps.json
+C:\Users\likitha\Desktop\.netProject\Services\Igmite.Lighthouse.Entities\bin\Debug\netcoreapp2.2\Igmite.Lighthouse.Entities.dll
+C:\Users\likitha\Desktop\.netProject\Services\Igmite.Lighthouse.Entities\bin\Debug\netcoreapp2.2\Igmite.Lighthouse.Entities.pdb
+C:\Users\likitha\Desktop\.netProject\Services\Igmite.Lighthouse.Entities\obj\Debug\netcoreapp2.2\Igmite.Lighthouse.Entities.csproj.AssemblyReference.cache
+C:\Users\likitha\Desktop\.netProject\Services\Igmite.Lighthouse.Entities\obj\Debug\netcoreapp2.2\Igmite.Lighthouse.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\likitha\Desktop\.netProject\Services\Igmite.Lighthouse.Entities\obj\Debug\netcoreapp2.2\Igmite.Lighthouse.Entities.AssemblyInfoInputs.cache
+C:\Users\likitha\Desktop\.netProject\Services\Igmite.Lighthouse.Entities\obj\Debug\netcoreapp2.2\Igmite.Lighthouse.Entities.AssemblyInfo.cs
+C:\Users\likitha\Desktop\.netProject\Services\Igmite.Lighthouse.Entities\obj\Debug\netcoreapp2.2\Igmite.Lighthouse.Entities.csproj.CoreCompileInputs.cache
+C:\Users\likitha\Desktop\.netProject\Services\Igmite.Lighthouse.Entities\obj\Debug\netcoreapp2.2\Igmite.Lighthouse.Entities.dll
+C:\Users\likitha\Desktop\.netProject\Services\Igmite.Lighthouse.Entities\obj\Debug\netcoreapp2.2\Igmite.Lighthouse.Entities.pdb

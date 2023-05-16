@@ -1,0 +1,10 @@
+C:\Users\likitha\Desktop\.netProject\Services\Igmite.Lighthouse.EmailServices\bin\Debug\netcoreapp2.2\Igmite.Lighthouse.EmailServices.deps.json
+C:\Users\likitha\Desktop\.netProject\Services\Igmite.Lighthouse.EmailServices\bin\Debug\netcoreapp2.2\Igmite.Lighthouse.EmailServices.dll
+C:\Users\likitha\Desktop\.netProject\Services\Igmite.Lighthouse.EmailServices\bin\Debug\netcoreapp2.2\Igmite.Lighthouse.EmailServices.pdb
+C:\Users\likitha\Desktop\.netProject\Services\Igmite.Lighthouse.EmailServices\obj\Debug\netcoreapp2.2\Igmite.Lighthouse.EmailServices.csproj.AssemblyReference.cache
+C:\Users\likitha\Desktop\.netProject\Services\Igmite.Lighthouse.EmailServices\obj\Debug\netcoreapp2.2\Igmite.Lighthouse.EmailServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\likitha\Desktop\.netProject\Services\Igmite.Lighthouse.EmailServices\obj\Debug\netcoreapp2.2\Igmite.Lighthouse.EmailServices.AssemblyInfoInputs.cache
+C:\Users\likitha\Desktop\.netProject\Services\Igmite.Lighthouse.EmailServices\obj\Debug\netcoreapp2.2\Igmite.Lighthouse.EmailServices.AssemblyInfo.cs
+C:\Users\likitha\Desktop\.netProject\Services\Igmite.Lighthouse.EmailServices\obj\Debug\netcoreapp2.2\Igmite.Lighthouse.EmailServices.csproj.CoreCompileInputs.cache
+C:\Users\likitha\Desktop\.netProject\Services\Igmite.Lighthouse.EmailServices\obj\Debug\netcoreapp2.2\Igmite.Lighthouse.EmailServices.dll
+C:\Users\likitha\Desktop\.netProject\Services\Igmite.Lighthouse.EmailServices\obj\Debug\netcoreapp2.2\Igmite.Lighthouse.EmailServices.pdb
