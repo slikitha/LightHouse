@@ -112,7 +112,7 @@ CREATE TABLE `accountroles` (
 
 LOCK TABLES `accountroles` WRITE;
 /*!40000 ALTER TABLE `accountroles` DISABLE KEYS */;
-INSERT INTO `accountroles` VALUES ('2a6a1056-cca8-46aa-8374-0875079e3e74','187d80b5-3bab-4b2a-b34f-dda08cb2ec6e','13673c1a-6a97-473b-9b2e-c4c2e7f86559',NULL,'likithavc','2023-05-16 12:47:11.558','likithavc','2023-05-16 12:47:11.558',_binary ''),('3adfdaa0-cb71-476d-913f-31657796ae9b','84c047e6-ef30-432a-9fcf-b926691674e8','d01b1d61-3f59-4c9b-92a5-195a4e94fdae',NULL,'kranthiND','2023-05-16 12:11:30.709','kranthiND','2023-05-16 12:11:30.709',_binary ''),('53794afc-a567-4edb-9b9f-641250f7845f','01985745-f80a-4d6d-8cd9-9dd034152e43','65f74045-e1d2-4700-8a85-23c2f4107953',NULL,'','2023-05-04 21:40:33.569','','2023-05-04 21:40:33.569',_binary '');
+INSERT INTO `accountroles` VALUES ('2a6a1056-cca8-46aa-8374-0875079e3e74','187d80b5-3bab-4b2a-b34f-dda08cb2ec6e','13673c1a-6a97-473b-9b2e-c4c2e7f86559',NULL,'likithavc','2023-05-16 12:47:11.558','likithavc','2023-05-16 12:47:11.558',_binary ''),('3adfdaa0-cb71-476d-913f-31657796ae9b','84c047e6-ef30-432a-9fcf-b926691674e8','d01b1d61-3f59-4c9b-92a5-195a4e94fdae',NULL,'kranthiND','2023-05-16 12:11:30.709','kranthiND','2023-05-16 12:11:30.709',_binary ''),('53794afc-a567-4edb-9b9f-641250f7845f','01985745-f80a-4d6d-8cd9-9dd034152e43','65f74045-e1d2-4700-8a85-23c2f4107953',NULL,'','2023-05-04 21:40:33.569','','2023-05-04 21:40:33.569',_binary ''),('574d0d06-f48f-4c78-af85-76dab71b0c5a','cab19335-5e7e-4b0a-b8f1-e8fc2a3a71fb','ed6f0507-062b-454d-946e-f700b12b0463',NULL,'kranthiND','2023-05-17 11:42:52.983','kranthiND','2023-05-17 11:42:52.983',_binary '');
 /*!40000 ALTER TABLE `accountroles` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -164,7 +164,7 @@ CREATE TABLE `accounts` (
 
 LOCK TABLES `accounts` WRITE;
 /*!40000 ALTER TABLE `accounts` DISABLE KEYS */;
-INSERT INTO `accounts` VALUES ('01985745-f80a-4d6d-8cd9-9dd034152e43','kranthiND@gmail.com','SwjxBNIHDYiUcq4K6Fsl/g==','kranthiND','KranthiND','Kranthi','ND','Super user','kranthiND@gmail.com','9121680048','Super user','KA','349f92ff-f9b9-49e7-9080-e12a5b446c31','KDHLI','','','2023-05-04 21:40:33.273','2023-11-04 21:40:33.273',NULL,0,_binary '','','',NULL,_binary '\0','','2023-05-04 21:40:33.246','','2023-05-04 21:40:33.246',_binary ''),('187d80b5-3bab-4b2a-b34f-dda08cb2ec6e','likithavt@gmail.com','Si91JG0GZeKUcq4K6Fsl/g==','likithavt','likitha Vt','likitha','Vt','Vocational Trainer','likithavt@gmail.com','7759825484','Vocational Trainer',NULL,NULL,NULL,NULL,NULL,NULL,'2023-11-16 12:47:11.547',NULL,0,_binary '\0',NULL,NULL,NULL,_binary '\0','likithavc','2023-05-16 12:47:11.547','likithavc','2023-05-16 12:47:11.547',_binary ''),('84c047e6-ef30-432a-9fcf-b926691674e8','likithavc@gmail.com','Si91JG0GZeKUcq4K6Fsl/g==','likithavc','likitha vc','likitha','vc','Vocational Coordinator','likithavc@gmail.com','7659825484','Vocational Coordinator',NULL,NULL,NULL,NULL,NULL,NULL,'2023-11-16 12:11:30.674',NULL,0,_binary '\0',NULL,NULL,NULL,_binary '\0','kranthiND','2023-05-16 12:11:30.674','kranthiND','2023-05-16 12:11:30.674',_binary '');
+INSERT INTO `accounts` VALUES ('01985745-f80a-4d6d-8cd9-9dd034152e43','kranthiND@gmail.com','SwjxBNIHDYiUcq4K6Fsl/g==','kranthiND','KranthiND','Kranthi','ND','Super user','kranthiND@gmail.com','9121680048','Super user','KA','349f92ff-f9b9-49e7-9080-e12a5b446c31','KDHLI','','','2023-05-04 21:40:33.273','2023-11-04 21:40:33.273',NULL,0,_binary '','','',NULL,_binary '\0','','2023-05-04 21:40:33.246','','2023-05-04 21:40:33.246',_binary ''),('187d80b5-3bab-4b2a-b34f-dda08cb2ec6e','likithavt@gmail.com','Si91JG0GZeKUcq4K6Fsl/g==','likithavt','likitha Vt','likitha','Vt','Vocational Trainer','likithavt@gmail.com','7759825484','Vocational Trainer',NULL,NULL,NULL,NULL,NULL,NULL,'2023-11-16 12:47:11.547',NULL,0,_binary '\0',NULL,NULL,NULL,_binary '\0','likithavc','2023-05-16 12:47:11.547','likithavc','2023-05-16 12:47:11.547',_binary ''),('84c047e6-ef30-432a-9fcf-b926691674e8','likithavc@gmail.com','Si91JG0GZeKUcq4K6Fsl/g==','likithavc','likitha vc','likitha','vc','Vocational Coordinator','likithavc@gmail.com','7659825484','Vocational Coordinator',NULL,NULL,NULL,NULL,NULL,NULL,'2023-11-16 12:11:30.674',NULL,0,_binary '\0',NULL,NULL,NULL,_binary '\0','kranthiND','2023-05-16 12:11:30.674','kranthiND','2023-05-16 12:11:30.674',_binary ''),('cab19335-5e7e-4b0a-b8f1-e8fc2a3a71fb','likithapmu@gmail.com','SwjxBNIHDYiUcq4K6Fsl/g==','likithapmu','likithapmu','likitha','pmu','PMU-ADMIN','likithapmu@gmail.com','9121680049','PMU-ADMIN','KA','349f92ff-f9b9-49e7-9080-e12a5b446c31','KDHLI','','','2023-05-17 11:42:52.336','2023-11-17 11:42:52.336',NULL,0,_binary '','','',NULL,_binary '\0','kranthiND','2023-05-17 11:42:52.303','kranthiND','2023-05-17 11:42:52.303',_binary '');
 /*!40000 ALTER TABLE `accounts` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -309,7 +309,7 @@ CREATE TABLE `accountworklocations` (
 
 LOCK TABLES `accountworklocations` WRITE;
 /*!40000 ALTER TABLE `accountworklocations` DISABLE KEYS */;
-INSERT INTO `accountworklocations` VALUES ('2a01655b-d341-4403-b475-7010c87b8567','01985745-f80a-4d6d-8cd9-9dd034152e43','KA','349f92ff-f9b9-49e7-9080-e12a5b446c31','KDHLI','','',NULL,'','2023-05-04 21:40:33.382','','2023-05-04 21:40:33.382',_binary '');
+INSERT INTO `accountworklocations` VALUES ('2a01655b-d341-4403-b475-7010c87b8567','01985745-f80a-4d6d-8cd9-9dd034152e43','KA','349f92ff-f9b9-49e7-9080-e12a5b446c31','KDHLI','','',NULL,'','2023-05-04 21:40:33.382','','2023-05-04 21:40:33.382',_binary ''),('401597fe-301f-46c1-a322-f8490be28d79','cab19335-5e7e-4b0a-b8f1-e8fc2a3a71fb','KA','349f92ff-f9b9-49e7-9080-e12a5b446c31','KDHLI','','',NULL,'kranthiND','2023-05-17 11:42:52.448','kranthiND','2023-05-17 11:42:52.448',_binary '');
 /*!40000 ALTER TABLE `accountworklocations` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -2924,7 +2924,7 @@ CREATE TABLE `roles` (
 
 LOCK TABLES `roles` WRITE;
 /*!40000 ALTER TABLE `roles` DISABLE KEYS */;
-INSERT INTO `roles` VALUES ('13673c1a-6a97-473b-9b2e-c4c2e7f86559','VT','Vocational Trainer','Vocational Trainer',NULL,NULL,'KranthiND','2023-05-04 21:35:35.919',NULL,'2023-05-04 21:35:35.919',_binary ''),('65f74045-e1d2-4700-8a85-23c2f4107953','ADMIN','Super user','','','','','2023-05-04 21:35:35.919','','2023-05-04 21:35:35.919',_binary ''),('d01b1d61-3f59-4c9b-92a5-195a4e94fdae','VC','Vocational Coordinator','Vocational Coordinator',NULL,NULL,'KranthiND','2023-05-04 21:35:35.919',NULL,'2023-05-04 21:35:35.919',_binary '');
+INSERT INTO `roles` VALUES ('13673c1a-6a97-473b-9b2e-c4c2e7f86559','VT','Vocational Trainer','Vocational Trainer',NULL,NULL,'KranthiND','2023-05-04 21:35:35.919',NULL,'2023-05-04 21:35:35.919',_binary ''),('65f74045-e1d2-4700-8a85-23c2f4107953','ADMIN','Super user','','','','','2023-05-04 21:35:35.919','','2023-05-04 21:35:35.919',_binary ''),('d01b1d61-3f59-4c9b-92a5-195a4e94fdae','VC','Vocational Coordinator','Vocational Coordinator',NULL,NULL,'KranthiND','2023-05-04 21:35:35.919',NULL,'2023-05-04 21:35:35.919',_binary ''),('ed6f0507-062b-454d-946e-f700b12b0463','PMU-ADMIN','PMU-ADMIN','PMU-ADMIN',NULL,NULL,'KranthiND','2023-05-04 21:35:35.919',NULL,'2023-05-04 21:35:35.919',_binary '');
 /*!40000 ALTER TABLE `roles` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -42046,4 +42046,4 @@ DELIMITER ;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2023-05-16 13:12:01
+-- Dump completed on 2023-05-17 11:44:24
